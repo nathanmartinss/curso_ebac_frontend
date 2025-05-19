@@ -1,0 +1,75 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 0;
+    text-align: center;
+}
+
+section {
+    padding: 20px;
+    margin: 10px;
+}
+
+.noticias {
+    background-color: #f9f9f9;
+    border: 1px solid #ddd;
+    border-radius: 5px;
+}
+
+#noticias {
+    background: #f0f0f0;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.entretenimento {
+    background-color: #ffeb3b;
+    border: 1px solid #fbc02d;
+    border-radius: 5px;
+}
+
+#entretenimento {
+    background: #ffe4e1;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+.tecnologia {
+    background-color: #2196F3;
+    border: 1px solid #1976D2;
+    border-radius: 5px;
+    color: white;
+}
+
+#tecnologia {
+    background: #e0f7fa;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 8px;
+}
+
+h2 {
+    font-size: 24px;
+    margin-bottom: 10px;
+}
+
+section h2 {
+    margin-top: 0;
+}
+
+p {
+    font-size: 16px;
+    line-height: 1.5;
+}
+
+article {
+    margin-bottom: 15px;
+}
